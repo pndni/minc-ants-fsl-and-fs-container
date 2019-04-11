@@ -43,5 +43,5 @@ From: pndni/minc-ants-and-fsl-container:1.0.0
 
 %labels
     Maintainer Steven Tilley
-    Version dev
+    Version 1.0.0
 
